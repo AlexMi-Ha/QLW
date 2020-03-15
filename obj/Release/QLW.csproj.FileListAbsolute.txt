@@ -1,0 +1,15 @@
+D:\Programmierung\C#\C# Projekte\QLW\QLW\obj\Release\QLW.Main.resources
+D:\Programmierung\C#\C# Projekte\QLW\QLW\obj\Release\QLW.PageDialog.resources
+D:\Programmierung\C#\C# Projekte\QLW\QLW\obj\Release\QLW.Properties.Resources.resources
+D:\Programmierung\C#\C# Projekte\QLW\QLW\obj\Release\QLW.csproj.GenerateResource.Cache
+D:\Programmierung\C#\C# Projekte\QLW\QLW\bin\Release\QuickLaunchWidgets.exe.config
+D:\Programmierung\C#\C# Projekte\QLW\QLW\bin\Release\QuickLaunchWidgets.exe.manifest
+D:\Programmierung\C#\C# Projekte\QLW\QLW\bin\Release\QuickLaunchWidgets.application
+D:\Programmierung\C#\C# Projekte\QLW\QLW\bin\Release\QuickLaunchWidgets.exe
+D:\Programmierung\C#\C# Projekte\QLW\QLW\bin\Release\QuickLaunchWidgets.pdb
+D:\Programmierung\C#\C# Projekte\QLW\QLW\obj\Release\QLW.csproj.CoreCompileInputs.cache
+D:\Programmierung\C#\C# Projekte\QLW\QLW\obj\Release\QuickLaunchWidgets.TrustInfo.xml
+D:\Programmierung\C#\C# Projekte\QLW\QLW\obj\Release\QuickLaunchWidgets.exe.manifest
+D:\Programmierung\C#\C# Projekte\QLW\QLW\obj\Release\QuickLaunchWidgets.application
+D:\Programmierung\C#\C# Projekte\QLW\QLW\obj\Release\QuickLaunchWidgets.exe
+D:\Programmierung\C#\C# Projekte\QLW\QLW\obj\Release\QuickLaunchWidgets.pdb
